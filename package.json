@@ -1,0 +1,21 @@
+{
+  "name": "practica_nro_03_esteban_delgado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steven45609/SistemaNotas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Steven45609/SistemaNotas/issues"
+  },
+  "homepage": "https://github.com/Steven45609/SistemaNotas#readme"
+}
