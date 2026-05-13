@@ -1,5 +1,5 @@
-function sumar(a,b){
-    return a-b;
-}
+const{
+    mostrarAlumnos
+} = require("./controllers/alumnoController");
 
-console.log("Resultado: ",sumar(10,5));
+mostrarAlumnos();
